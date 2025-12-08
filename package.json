@@ -1,17 +1,32 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "download---copy",
-  "title": "Download & Copy",
-  "description": "Download file from URL and copy it as path.",
-  "icon": "extension-icon.png",
+  "name": "downloader-utils",
+  "title": "Downloader Utils",
+  "description": "Utils to make downloading easier.",
+  "icon": "icon.png",
   "license": "MIT",
   "commands": [
     {
       "name": "download-from-url-and-copy",
-      "title": "Download from URL and Copy",
+      "title": "Download from URL and Copy Path",
       "description": "Download file from URL and copy it as path.",
       "mode": "no-view",
-      "subtitle": "Download from URL and Copy",
+      "subtitle": "Download from URL and Copy Path",
+      "arguments": [
+        {
+          "name": "url",
+          "placeholder": "URL",
+          "type": "text",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "clean-temp-folder",
+      "title": "Clean Temp Folder",
+      "description": "Clean the contents of Temp folder.",
+      "mode": "no-view",
+      "subtitle": "Clean Temp Folder",
       "arguments": [
         {
           "name": "url",
