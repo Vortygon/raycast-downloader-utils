@@ -6,5 +6,8 @@
 WIP
 
 ### ✨ Features
-**<img src="assets/icon.png" height="16"> Downloading:**
--  Download from URL and copy path
+**🔽️ Downloading:**
+- Download from URL and copy path
+
+**📁 Folders:**
+- Clear Temp Folder
