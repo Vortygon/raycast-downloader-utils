@@ -1,11 +1,8 @@
 # <img src="assets/icon.png" height="32"> Downloader Utils
-
-
-
 ### [Raycast] extension to make downloading easier.
 
 [Raycast]: <https://www.raycast.com/>
-&emsp;
+<br>
 
 ## ✨ Features
 #### 🔽️ Downloading:
