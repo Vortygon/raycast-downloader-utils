@@ -1,15 +1,15 @@
 # <img src="assets/icon.png" height="32"> Downloader Utils
+
+
+
 ### [Raycast] extension to make downloading easier.
 
 [Raycast]: <https://www.raycast.com/>
+&emsp;
 
-WIP
-
-
-### ✨ Features
----
+## ✨ Features
 #### 🔽️ Downloading:
-- Download from URL and copy path
+- 🔗 Download from URL and copy path
 
 #### 📁 Folders:
-- Clear Temp Folder
+- ♻️ Clear Temp Folder
